@@ -1,7 +1,7 @@
 # Shared Project Context and Decisions
 
 **Read before making product or architecture decisions.** This file records assumptions, boundaries, open questions and decisions so that collaborators and coding agents don't repeatedly redesign the same MVP.
-
+##this
 ## 1. Source problem statement
 
 YC's *Company Brain* concept describes a missing domain-knowledge layer for AI automation. Company knowledge is fragmented across email, chat, support, databases and people's heads. A company brain should structure and refresh that knowledge, reflect how the business works and compile it into reusable agent skills. It must be more than enterprise search or document-chat RAG.
